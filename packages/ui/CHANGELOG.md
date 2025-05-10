@@ -1,5 +1,11 @@
 # @sadang-new/ui
 
+## 0.1.0
+
+### Minor Changes
+
+- 38d1579: 이미지, 플렉스 속성 수정
+
 ## 0.0.7
 
 ### Patch Changes
